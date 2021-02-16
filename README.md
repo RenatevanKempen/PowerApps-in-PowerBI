@@ -1,6 +1,6 @@
 ﻿﻿![BAIME banner](https://user-images.githubusercontent.com/47600826/89530907-9b3f6480-d7ef-11ea-9849-27617f6025cf.png)
 
-# powerApps in Power BI 
+# PowerApps in Power BI 
 
 Hello to you all!
 
@@ -22,7 +22,7 @@ There are several license plans, check out the [Microsoft site](https://powerapp
 And in this [blog](https://www.cloudigy.nl/office-365/powerapps/licentiemodel-powerapps/) (in Dutch) you can read about the differences between the plans. 
 
 ## Want to learn more? 
-Want to learn more about the use of PowerApps in Power BI, be sure to check out [these courses](https://get-responsive.com/trainingen/):
+Want to learn more about the use of PowerApps in Power BI, be sure to check out [these courses](https://get-responsive.com/trainingen/)
 
 
 If you have any questions, feel free to contact me via [email](renate@baime.nl)
