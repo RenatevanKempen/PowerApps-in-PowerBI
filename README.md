@@ -11,7 +11,7 @@ If you are a data professional and enjoy building Power BI dashboards, you might
 For this reason you can add PowerApps in Power BI. 
 
 Allow me to give you some reasons why PowerApps can be of added value: 
-- PowerApps can add interactive possibilities to your dashboards, like adjusting data
+- PowerApps can add interactive possibilities to your dashboards, like adjusting or add data directly in Sharepoint lists, Excel or even SQL tables.
 - You can use PowerApps for review steps if you want your budget or forecast to be reviewed by different persons
 
 .... and much much more
