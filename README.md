@@ -14,6 +14,7 @@ Allow me to give you some reasons why PowerApps can be of added value:
 - PowerApps can add interactive possibilities to your dashboards, like adjusting or add data directly in Sharepoint lists, Excel or even SQL tables.
 - Use PowerApps to make an interactive Sales Forecasting method or a Budget method for your company
 - You can use PowerApps for review steps if you want your budget or forecast to be reviewed by different persons
+- Show the adjustments directly in your Power BI visuals
 
 .... and much much more
 
